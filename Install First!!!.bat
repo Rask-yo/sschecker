@@ -1,0 +1,34 @@
+pip install appdirs
+pip install attr
+pip install bs4
+pip install colorama
+pip install urllib3
+pip install argparse
+pip install cfscrape
+pip install selenium
+pip install websocket
+pip install re
+pip install subprocess
+pip install hashlib
+pip install BeautifulSoup
+pip install threading
+pip install itertools
+pip install loguru
+pip install pexpect
+pip install logging
+pip install typing
+pip install socket
+pip install phonenumbers
+pip install datetime
+pip install ctypes
+pip install json
+pip install concurrent.futures
+pip install os
+pip install ctypes
+pip install time
+pip install datetime
+pip install itertools
+pip install socket
+pip install hashlib
+
+
